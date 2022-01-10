@@ -66,6 +66,7 @@ UPDATE `tbl_product` SET
 							WHERE
 								`productCode` = 5;
 
+SELECT * FROM `tbl_product`;
 
 
 
